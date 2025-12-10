@@ -33,7 +33,7 @@ export const projects = [
     context: "Full-stack Web Application",
     description:
       "A restaurant management portal for handling table orders, menu items, and kitchen workflows, with separate interfaces for customers, waiters and kitchen staff.",
-    tech: ["Flask", "Python", "HTML/CSS", "SQLite", "REST APIs"],
+    tech: ["Flask", "Python", "HTML/CSS", "MySQL", "REST APIs"],
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ export const projects = [
     context: "Academic / Personal Project",
     description:
       "Online examination portal that manages question banks, student authentication, timed tests and automatic result calculation.",
-    tech: ["Python", "Flask / Django", "SQL", "Authentication"],
+    tech: ["Python", "Flask / Django", "MySQL", "Authentication"],
   },
   {
     id: 3,
