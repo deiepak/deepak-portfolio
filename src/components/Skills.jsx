@@ -48,7 +48,7 @@ function Skills() {
             <span className="skill-tag">Patent Drafting</span>
             <span className="skill-tag">Team Collaboration</span>
             <span className="skill-tag">Public Speaker</span>
-            <span className="skill-tag">Served as President of the Nepalese Student Community in CU</span>
+            <span className="skill-tag">Serving as President of the Nepalese Student Community in CU</span>
           </div>
         </div>
       </div>

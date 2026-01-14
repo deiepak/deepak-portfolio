@@ -33,7 +33,7 @@ export const projects = [
     context: "Full-stack Web Application",
     description:
       "A restaurant management portal for handling table orders, menu items, and kitchen workflows, with separate interfaces for customers, waiters and kitchen staff.",
-    tech: ["Flask", "Python", "HTML/CSS", "SQLite", "REST APIs"],
+    tech: ["Flask", "Python", "HTML/CSS", "MySQL", "REST APIs"],
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ export const projects = [
     context: "Academic / Personal Project",
     description:
       "Online examination portal that manages question banks, student authentication, timed tests and automatic result calculation.",
-    tech: ["Python", "Flask / Django", "SQL", "Authentication"],
+    tech: ["Python", "Flask / Django", "MySQL", "Authentication"],
   },
   {
     id: 3,
@@ -72,12 +72,22 @@ export const projects = [
     tech: ["Python", "Flask", "SQL", "Data Structures"],
   },
   {
-    id: 6,
-    title: "Technical Writing – Mexene Review Paper",
-    role: "Author",
-    context: "Research & Writing",
-    description:
-      "Review paper on Mexene, covering material properties, potential applications and current research trends, bridging theory with practical engineering use.",
-    tech: ["Technical Writing", "Research", "LaTeX"],
-  },
+  id: 7,
+  title: "Screen Sharing Tool",
+  role: "Lead Developer",
+  context: "Web Application",
+  description:
+    "A real-time browser-based screen sharing tool enabling teachers to create secure rooms and students to join using a room code. Built using WebRTC for low-latency peer-to-peer screen streaming and Socket.IO for real-time signaling, with automatic room management and disconnection handling. Deployed on Render with Docker for scalable and reliable hosting.",
+  tech: [
+    "JavaScript",
+    "WebRTC",
+    "Socket.IO",
+    "Node.js",
+    "Express.js",
+    "HTML",
+    "CSS",
+    "Docker",
+    "Render"
+  ],
+},
 ];
