@@ -117,4 +117,13 @@ export const projects = [
       "A web browser extension for real-time HTML scraping and analysis, designed to detect and alert users of possible threats, phishing attempts, and scams.",
     tech: ["JavaScript", "Browser Extension API", "HTML Scraping", "Security Analysis"],
   },
+  {
+    id: 11,
+    title: "Algolabs",
+    role: "Full-Stack Developer",
+    context: "EdTech Learning Platform",
+    description:
+      "A comprehensive digital platform for mastering Data Structures, Algorithms, and JavaScript. Features interactive code visualization tools that animate algorithm execution in real-time, helping users build deep intuition for complex logical patterns.",
+    tech: ["React", "D3.js", "TypeScript", "Canvas API", "Node.js"],
+  },
 ];
