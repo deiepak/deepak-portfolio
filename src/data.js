@@ -126,4 +126,13 @@ export const projects = [
       "A comprehensive digital platform for mastering Data Structures, Algorithms, and JavaScript. Built with a focus on SEO and performance, it features interactive code visualization tools that animate algorithm execution in real-time.",
     tech: ["React", "D3.js", "SEO Optimization", "TypeScript", "Canvas API", "Node.js"],
   },
+  {
+    id: 12,
+    title: "CUNSS Election Portal",
+    role: "Lead Developer",
+    context: "Community Organization Tool",
+    description:
+      "A secure online election portal built for the Chandigarh University Nepalese Student Society, enabling verified member voting with Google Authentication, real-time vote tallying, and transparent result declaration.",
+    tech: ["React", "Node.js", "Google API", "Google OAuth", "Express.js", "MongoDB"],
+  },
 ];
