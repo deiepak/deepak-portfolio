@@ -90,4 +90,31 @@ export const projects = [
     "Render"
   ],
 },
+{
+    id: 8,
+    title: "Agri_Doctor",
+    role: "AI Developer",
+    context: "AI-Powered Plant Health System",
+    description:
+      "A 3-tier AI system that detects plant diseases, boosts diagnostic accuracy using an Akinator-style interactive Q&A, and provides treatment plans. Utilizes self-trained models with an OpenAI fallback for complex cases.",
+    tech: ["Python", "FastAPI", "OpenAI API", "Machine Learning", "React"],
+  },
+  {
+    id: 9,
+    title: "Desert Offroad Navigator",
+    role: "AI/ML Developer",
+    context: "Hackathon Project (Ranked 3/300)",
+    description:
+      "A real-time terrain segmentation and NLP-based voice guidance system for off-road drivers, designed to identify safe paths and hazards in desert environments.",
+    tech: ["Computer Vision", "Segmentation", "NLP", "Python", "Real-time Processing"],
+  },
+  {
+    id: 10,
+    title: "Scam-Guard Extension",
+    role: "Lead Developer",
+    context: "Cybersecurity Web Tool",
+    description:
+      "A web browser extension for real-time HTML scraping and analysis, designed to detect and alert users of possible threats, phishing attempts, and scams.",
+    tech: ["JavaScript", "Browser Extension API", "HTML Scraping", "Security Analysis"],
+  },
 ];
