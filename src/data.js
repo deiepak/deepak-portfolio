@@ -96,8 +96,8 @@ export const projects = [
     role: "AI Developer",
     context: "AI-Powered Plant Health System",
     description:
-      "A 3-tier AI system that detects plant diseases, boosts diagnostic accuracy using an Akinator-style interactive Q&A, and provides treatment plans. Utilizes self-trained models with an OpenAI fallback for complex cases.",
-    tech: ["Python", "FastAPI", "OpenAI API", "Machine Learning", "React"],
+      "A 3-tier AI system that detects plant diseases, boosts diagnostic accuracy using an Akinator-style interactive Q&A, and provides treatment plans. Includes GEO-tagging for regional disease mapping and health trend analysis. Utilizes self-trained models with an OpenAI fallback.",
+    tech: ["Python", "FastAPI", "OpenAI API", "GIS / GEO", "Machine Learning", "React"],
   },
   {
     id: 9,
@@ -105,8 +105,8 @@ export const projects = [
     role: "AI/ML Developer",
     context: "Hackathon Project (Ranked 3/300)",
     description:
-      "A real-time terrain segmentation and NLP-based voice guidance system for off-road drivers, designed to identify safe paths and hazards in desert environments.",
-    tech: ["Computer Vision", "Segmentation", "NLP", "Python", "Real-time Processing"],
+      "A real-time terrain segmentation and NLP-based voice guidance system for off-road drivers, integrating GPS and GEO-spatial mapping to identify safe paths and hazards in desert environments.",
+    tech: ["Computer Vision", "Segmentation", "GPS / GIS", "NLP", "Python", "Real-time Processing"],
   },
   {
     id: 10,
@@ -123,7 +123,7 @@ export const projects = [
     role: "Full-Stack Developer",
     context: "EdTech Learning Platform",
     description:
-      "A comprehensive digital platform for mastering Data Structures, Algorithms, and JavaScript. Features interactive code visualization tools that animate algorithm execution in real-time, helping users build deep intuition for complex logical patterns.",
-    tech: ["React", "D3.js", "TypeScript", "Canvas API", "Node.js"],
+      "A comprehensive digital platform for mastering Data Structures, Algorithms, and JavaScript. Built with a focus on SEO and performance, it features interactive code visualization tools that animate algorithm execution in real-time.",
+    tech: ["React", "D3.js", "SEO Optimization", "TypeScript", "Canvas API", "Node.js"],
   },
 ];
