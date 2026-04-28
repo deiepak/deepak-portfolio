@@ -59,8 +59,8 @@ export const projects = [
     role: "Full-Stack Developer",
     context: "Personal Project",
     description:
-      "A meal planning web app that helps users plan weekly meals, track ingredients and minimize food waste with a clean and minimal UI.",
-    tech: ["React", "Node.js", "MongoDB", "Responsive UI"],
+      "A meal planning web app that helps users plan weekly meals, track ingredients and minimize food waste. Integrated with WordPress for dynamic nutritional content and blog updates.",
+    tech: ["React", "Node.js", "WordPress", "MongoDB", "Responsive UI"],
   },
   {
     id: 5,

@@ -19,6 +19,7 @@ function Skills() {
             <span className="skill-tag">JavaScript</span>
             <span className="skill-tag">React</span>
             <span className="skill-tag">Flask</span>
+            <span className="skill-tag">WordPress</span>
             <span className="skill-tag">Git & GitHub</span>
           </div>
         </div>
@@ -47,8 +48,8 @@ function Skills() {
             <span className="skill-tag">Technical Writing</span>
             <span className="skill-tag">Patent Drafting</span>
             <span className="skill-tag">Team Collaboration</span>
-            <span className="skill-tag">Public Speaker</span>
-            <span className="skill-tag">Serving as President of the Nepalese Student Community in CU</span>
+            <span className="skill-tag">Public Speaking</span>
+            <span className="skill-tag">Served as the President of the Nepalese Student Community in CU</span>
           </div>
         </div>
       </div>
