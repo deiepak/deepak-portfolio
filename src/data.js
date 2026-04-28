@@ -135,4 +135,13 @@ export const projects = [
       "A secure online election portal built for the Chandigarh University Nepalese Student Society, enabling verified member voting with Google Authentication, real-time vote tallying, and transparent result declaration.",
     tech: ["React", "Node.js", "Google API", "Google OAuth", "Express.js", "MongoDB"],
   },
+  {
+    id: 13,
+    title: "Portfolio & Wedding Websites",
+    role: "Freelance Developer & Designer",
+    context: "Client Projects (5+ Portfolios, 1 Wedding Invitation)",
+    description:
+      "Designed and developed 5+ custom portfolio websites and a premium wedding invitation website for clients. Each project featured unique themes, responsive layouts, RSVP management, animations, and SEO-optimized content using a mix of modern web technologies.",
+    tech: ["React", "Next.js", "WordPress", "HTML/CSS", "JavaScript", "GSAP", "SEO", "Vite"],
+  },
 ];
