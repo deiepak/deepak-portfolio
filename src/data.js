@@ -144,4 +144,13 @@ export const projects = [
       "Designed and developed 5+ custom portfolio websites and a premium wedding invitation website for clients. Each project featured unique themes, responsive layouts, RSVP management, animations, and SEO-optimized content using a mix of modern web technologies.",
     tech: ["React", "Next.js", "WordPress", "HTML/CSS", "JavaScript", "GSAP", "SEO", "Vite"],
   },
+  {
+    id: 14,
+    title: "CU Management System Staff Portal",
+    role: "Product Designer",
+    context: "Chandigarh University | ERP Feature Design",
+    description:
+      "Developing and designing features for the staff-facing CU Management System 2.0 login portal, focusing on improving the technical support interface, user experience, and ticket raising functionality. Deployed at staff.cuchd.in.",
+    tech: ["UI/UX Design", "ERP Systems", "Staff Interface Design", "Figma", "Prototyping"],
+  },
 ];
