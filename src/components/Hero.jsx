@@ -159,6 +159,31 @@ function Hero() {
               <line x1="12" y1="15" x2="12" y2="3" />
             </svg>
           </a>
+          <a
+            href="/deepak_shah_portfolio_data.pdf"
+            download="Deepak_Shah_Portfolio_Data.pdf"
+            className="export-data-btn"
+            aria-label="Export Portfolio Data PDF"
+            title="Download Complete Portfolio Data Sheet (PDF)"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+              <polyline points="14 2 14 8 20 8" />
+              <line x1="12" y1="18" x2="12" y2="12" />
+              <polyline points="9 15 12 18 15 15" />
+            </svg>
+            <span>Export Data (PDF)</span>
+          </a>
         </div>
       </div>
       <div className="hero-right">

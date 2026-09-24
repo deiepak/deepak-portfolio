@@ -12,13 +12,17 @@ function Footer() {
           </a>
         </span>
         <span>
-          AI / LLM Feeds:{" "}
+          AI &amp; Data Feeds:{" "}
           <a href="/llms.txt" target="_blank" rel="noopener noreferrer">
             llms.txt
           </a>
           {" • "}
           <a href="/profile.json" target="_blank" rel="noopener noreferrer">
             profile.json
+          </a>
+          {" • "}
+          <a href="/deepak_shah_portfolio_data.pdf" download="Deepak_Shah_Portfolio_Data.pdf">
+            Export Data (PDF)
           </a>
         </span>
         <a

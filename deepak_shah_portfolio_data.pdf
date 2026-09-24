@@ -1,0 +1,229 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+      /F3 7 0 R
+    >>
+  >>
+  /Contents 8 0 R
+>>
+endobj
+4 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+      /F3 7 0 R
+    >>
+  >>
+  /Contents 9 0 R
+>>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 8325 >>
+stream
+0.010 0.550 0.880 rg 0.00 788.00 612.00 4.00 re f
+0.580 0.330 0.950 rg 0.00 786.00 612.00 2.00 re f
+BT /F2 18 Tf 0.040 0.080 0.180 rg 42.00 756.00 Td (DEEPAK PRASAD SHAH) Tj ET
+BT /F2 9.5 Tf 0.010 0.520 0.850 rg 42.00 744.00 Td (Full-Stack Developer  |  DevOps Engineer  |  Product Designer) Tj ET
+0.960 0.970 0.990 rg 0.880 0.910 0.950 RG 0.8 w 42.00 715.00 528.00 22.00 re B
+BT /F1 8 Tf 0.250 0.300 0.380 rg 50.00 726.00 Td (Email: deepakprdshah@yahoo.com   |   Phone: +91-8288997559   |   Location: India / Nepal) Tj ET
+BT /F1 8 Tf 0.250 0.300 0.380 rg 50.00 717.50 Td (Website: deepakprasadshah.com.np   |   GitHub: github.com/deiepak   |   LinkedIn: linkedin.com/in/deiepak) Tj ET
+0.010 0.550 0.880 rg 42.00 697.00 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 699.00 Td (PROFESSIONAL PROFILE) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 695.00 m 570.00 695.00 l S
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 686.00 Td (Computer Science & Engineering undergraduate at Chandigarh University \(Batch of 2028\). Active) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 674.50 Td (Frontend & DevOps Intern at National Innovation Center \(wildlife telemetry systems\) and) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 663.00 Td (Adventure Sewa Pvt. Ltd. \(hospitality management suite\). Winner of Top 3 Team at SAP Hackfest) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 651.50 Td (2026 out of 1,300+ participants nationwide. Holds 3 published hardware patents in counter-UAV) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 640.00 Td (defense and renewable energy automation. Proven track record of deploying 10+ production client) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 628.50 Td (websites, managing Ubuntu Server 24 VPS infrastructure, Cloudflare DNS routing, Docker) Tj ET
+BT /F1 8.4 Tf 0.220 0.250 0.320 rg 42.00 617.00 Td (containerization, and building scalable full-stack applications.) Tj ET
+0.010 0.550 0.880 rg 42.00 593.50 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 595.50 Td (WORK EXPERIENCE & INTERNSHIPS) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 591.50 m 570.00 591.50 l S
+BT /F2 9.5 Tf 0.060 0.100 0.200 rg 42.00 582.50 Td (Frontend Developer & DevOps Engineer) Tj ET
+BT /F2 8 Tf 0.010 0.520 0.850 rg 450.00 582.50 Td (July 2026 - Present  [Active]) Tj ET
+BT /F3 8 Tf 0.400 0.450 0.500 rg 42.00 573.00 Td (National Innovation Center \(NIC\)  -  Partially Remote  |  Wildlife Conservation Systems) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 564.50 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 564.50 Td (Engineered responsive React web dashboards for wildlife tracking and environmental sensor) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 553.50 Td (telemetry visualization.) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 541.00 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 541.00 Td (Configured automated CI/CD workflows, Docker containerization, and Ubuntu Server 24 cloud VPS) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 530.00 Td (deployment for 99.9% uptime.) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 517.50 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 517.50 Td (Collaborated with field researchers and embedded hardware engineers to bridge real-time sensor) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 506.50 Td (streams into web telemetry.) Tj ET
+BT /F3 7.8 Tf 0.020 0.450 0.720 rg 52.00 494.00 Td (Tech Stack: React, JavaScript, DevOps, Ubuntu Server 24, VPS Management, Docker, CI/CD, GIS/Telemetry) Tj ET
+BT /F2 9.5 Tf 0.060 0.100 0.200 rg 42.00 483.00 Td (Solo Product Designer, QA Tester & DevOps Engineer) Tj ET
+BT /F2 8 Tf 0.010 0.520 0.850 rg 440.00 483.00 Td (August 2025 - Present  [Active]) Tj ET
+BT /F3 8 Tf 0.400 0.450 0.500 rg 42.00 473.50 Td (Adventure Sewa Pvt. Ltd.  -  Hybrid/Remote  |  Hospitality & Resort ERP Operations) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 465.00 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 465.00 Td (Designed full UX/UI flows and interactive prototypes in Figma for resort booking, POS billing,) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 454.00 Td (and adventure activity ticketing.) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 441.50 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 441.50 Td (Authored automated and manual test plans ensuring high reliability for payment transactions) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 430.50 Td (and reservations.) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 418.00 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 418.00 Td (Provisioned and hardened Ubuntu Server 24 VPS environments, automating server setups, Nginx) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 407.00 Td (routing, and Cloudflare DNS management.) Tj ET
+BT /F3 7.8 Tf 0.020 0.450 0.720 rg 52.00 394.50 Td (Tech Stack: Product Design, Figma, DevOps, Ubuntu Server 24, VPS Management, Cloudflare DNS, QA Testing, CI/CD) Tj ET
+0.010 0.550 0.880 rg 42.00 371.50 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 373.50 Td (HACKATHON HONORS & AWARDS) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 369.50 m 570.00 369.50 l S
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 360.50 Td (Top 3 Team  -  SAP Hackfest 2026) Tj ET
+BT /F2 8 Tf 0.850 0.550 0.050 rg 450.00 360.50 Td (National Podium  |  2026) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 351.50 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 351.50 Td (Secured a top 3 finish out of 1,300+ participants nationwide. Identified a friction-heavy) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 340.50 Td (real-world enterprise problem and engineered an end-to-end technical solution evaluated by) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 329.50 Td (senior SAP leadership and industry judges.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 315.00 Td (Ranked 3 / 300 Teams  -  Desert Offroad AI Challenge) Tj ET
+BT /F2 8 Tf 0.850 0.550 0.050 rg 450.00 315.00 Td (Hackathon Award  |  2025) Tj ET
+BT /F2 9 Tf 0.010 0.550 0.880 rg 52.00 306.00 Td (-) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 306.00 Td (Developed Desert Offroad Navigator - a real-time computer vision terrain segmentation and NLP) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 295.00 Td (voice guidance system for extreme terrain drivers, securing 3rd place out of 300 competing) Tj ET
+BT /F1 8.3 Tf 0.250 0.280 0.350 rg 60.00 284.00 Td (teams.) Tj ET
+0.010 0.550 0.880 rg 42.00 255.50 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 257.50 Td (PUBLISHED PATENTS) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 253.50 m 570.00 253.50 l S
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 244.50 Td (Drone Immobilization Over 2.4GHz) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 435.00 244.50 Td (Flagship Official Published Patent) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 236.00 Td (Design and implementation of a RF jamming system that safely immobilizes unauthorized drones) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 225.50 Td (operating on 2.4GHz bands with controlled disruption and minimal collateral interference. \(RF) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 215.00 Td (Engineering, Counter-UAV, Embedded Systems\)) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 201.50 Td (Solar Panel Surface Cleaning System) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 435.00 201.50 Td (Official Published Patent) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 193.00 Td (Automated low-water mechatronic cleaning mechanism for solar arrays to prevent dust accumulation) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 182.50 Td (and maximize photovoltaic energy yield. \(Mechatronics, Control Systems, Sustainability\)) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 169.00 Td (Mechanized Lifting System) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 435.00 169.00 Td (Official Published Patent) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 160.50 Td (Mechanized load handling mechanism engineered for constrained industrial spaces with high) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 150.00 Td (operator safety and ergonomic leverage. \(CAD, Mechanical Design, Safety Engineering\)) Tj ET
+0.850 0.880 0.920 RG 0.8 w 42.00 28.00 m 570.00 28.00 l S
+BT /F1 8 Tf 0.500 0.550 0.600 rg 42.00 16.00 Td (Deepak Prasad Shah  |  Portfolio Data Export  |  deepakprasadshah.com.np) Tj ET
+BT /F1 8 Tf 0.500 0.550 0.600 rg 525.00 16.00 Td (Page 1 of 2) Tj ET
+
+endstream
+endobj
+9 0 obj
+<< /Length 7397 >>
+stream
+0.010 0.550 0.880 rg 0.00 788.00 612.00 4.00 re f
+0.580 0.330 0.950 rg 0.00 786.00 612.00 2.00 re f
+0.010 0.550 0.880 rg 42.00 744.00 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 746.00 Td (KEY PRODUCTION DEPLOYMENTS & SOFTWARE PROJECTS) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 742.00 m 570.00 742.00 l S
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 733.00 Td (Department Event Registration & Instant Verification System) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 733.00 Td (Production Deployed - College Department) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 724.00 Td (High-concurrency competition and event registration portal with tamper-proof QR code pass) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 713.00 Td (generation, organizer scanning interface for instant entry verification, and administrative) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 702.00 Td (analytics. Hosted on Ubuntu Server 24 VPS with Docker, Nginx, and Cloudflare DNS.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 687.50 Td (Commercial & Freelance Business Websites \(10+ Deployed\)) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 687.50 Td (10+ Deployed Production Sites) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 678.50 Td (Engineered and deployed 10+ custom commercial websites and platforms \(e-commerce, corporate) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 667.50 Td (portfolios, booking systems, dynamic RSVP portals\) with React, Next.js, WordPress, Cloudflare) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 656.50 Td (DNS, and 95+ Google Lighthouse scores.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 642.00 Td (CU Management System Staff Portal) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 642.00 Td (Live in Production \(staff.cuchd.in\)) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 633.00 Td (Product Designer for staff-facing CU Management System 2.0 at Chandigarh University, improving) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 622.00 Td (support ticketing UX, interface architecture, and resolution workflows.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 607.50 Td (Real-Time Screen Sharing & Stream Tool) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 607.50 Td (Docker Containerized on Render) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 598.50 Td (Low-latency browser screen sharing using WebRTC peer-to-peer data channels and Socket.IO) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 587.50 Td (real-time signaling with automated room management.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 573.00 Td (Agri_Doctor - 3-Tier AI Plant Health System) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 573.00 Td (AI / Agritech) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 564.00 Td (Intelligent plant disease detection engine integrating computer vision, interactive) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 553.00 Td (Akinator-style diagnostic tree, and regional GIS disease trend mapping.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 538.50 Td (Algolabs - Algorithm Execution Visualizer) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 538.50 Td (EdTech Learning Platform) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 529.50 Td (Interactive platform for mastering Data Structures and Algorithms with real-time animated Canvas) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 518.50 Td (and D3.js step-by-step visualizations.) Tj ET
+BT /F2 9 Tf 0.060 0.100 0.200 rg 42.00 504.00 Td (IoT Smart Irrigation Controller) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 420.00 504.00 Td (Hardware / Firmware Prototype) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 495.00 Td (Automated smart irrigation system built on ESP32, soil moisture probes, temperature sensors, and) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 50.00 484.00 Td (weather forecast APIs.) Tj ET
+0.010 0.550 0.880 rg 42.00 457.50 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 459.50 Td (TECHNICAL SKILLS & COMPETENCIES) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 455.50 m 570.00 455.50 l S
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 446.50 Td (DevOps & Server Infrastructure:) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 446.50 Td (Ubuntu Server 24 \(LTS\), VPS Creation & Management, Cloudflare DNS) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 435.50 Td (Management, Nginx Reverse Proxy, Docker Containerization, CI/CD) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 424.50 Td (Pipelines, Linux/SSH Administration, Server Hardening &) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 413.50 Td (Monitoring, Render, Vercel.) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 400.00 Td (Frontend & Full-Stack Engineering:) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 400.00 Td (React, Next.js, JavaScript \(ES6+\), TypeScript, Node.js,) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 389.00 Td (Express.js, Python, Flask, FastAPI, Tailwind CSS, WordPress,) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 378.00 Td (MongoDB, MySQL, REST APIs, WebRTC, Socket.IO, D3.js.) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 364.50 Td (Product Design & Quality Assurance:) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 364.50 Td (Product Design, UI/UX Wireframing, Figma Prototyping, User Journey) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 353.50 Td (Maps, Software QA Testing, Test Case Design, Automated Testing,) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 342.50 Td (Bug Tracking & System Reliability.) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 329.00 Td (Embedded Systems, IoT & Hardware:) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 329.00 Td (ESP32, Arduino, C/C++, RF Jamming Concepts, Sensors & Actuators,) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 318.00 Td (Wireless Communication, IoT Protocols.) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 304.50 Td (Systems, Algorithms & Leadership:) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 304.50 Td (Data Structures, Algorithms, System Architecture, GIS/Telemetry,) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 293.50 Td (Patent Drafting, Technical Writing, Nepalese Student Society) Tj ET
+BT /F1 8 Tf 0.250 0.280 0.350 rg 222.00 282.50 Td (Leadership.) Tj ET
+0.010 0.550 0.880 rg 42.00 257.00 4.00 13.00 re f
+BT /F2 10 Tf 0.080 0.120 0.220 rg 51.00 259.00 Td (EDUCATION) Tj ET
+0.880 0.910 0.940 RG 0.8 w 42.00 255.00 m 570.00 255.00 l S
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 246.00 Td (Bachelor of Engineering \(BE\) in Computer Science & Engineering) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 430.00 246.00 Td (2024 - 2028 \(Batch of 2028\)) Tj ET
+BT /F1 8 Tf 0.350 0.400 0.450 rg 52.00 237.00 Td (Chandigarh University) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 228.00 Td (Senior Secondary School \(Class 11 - 12\)) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 430.00 228.00 Td (Completed  |  Science & Mathematics Stream) Tj ET
+BT /F1 8 Tf 0.350 0.400 0.450 rg 52.00 219.00 Td (Kendriya Vidyalaya, Embassy of India, Kathmandu) Tj ET
+BT /F2 8.5 Tf 0.060 0.100 0.200 rg 42.00 210.00 Td (Secondary School \(Up to Class 10\)) Tj ET
+BT /F3 7.8 Tf 0.010 0.520 0.850 rg 430.00 210.00 Td (Completed) Tj ET
+BT /F1 8 Tf 0.350 0.400 0.450 rg 52.00 201.00 Td (Modern Indian School, Kathmandu) Tj ET
+0.850 0.880 0.920 RG 0.8 w 42.00 28.00 m 570.00 28.00 l S
+BT /F1 8 Tf 0.500 0.550 0.600 rg 42.00 16.00 Td (Deepak Prasad Shah  |  Portfolio Data Export  |  deepakprasadshah.com.np) Tj ET
+BT /F1 8 Tf 0.500 0.550 0.600 rg 525.00 16.00 Td (Page 2 of 2) Tj ET
+
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000311 00000 n 
+0000000495 00000 n 
+0000000592 00000 n 
+0000000694 00000 n 
+0000000799 00000 n 
+0000009176 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+16625
+%%EOF

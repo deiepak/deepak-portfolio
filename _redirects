@@ -1,7 +1,8 @@
-/sitemap.xml   /sitemap.xml   200
-/robots.txt    /robots.txt    200
-/llms.txt      /llms.txt      200
-/profile.json  /profile.json  200
-/resume.pdf    /resume.pdf    200
-/favicon.svg   /favicon.svg   200
-/*             /index.html    200
+/sitemap.xml                     /sitemap.xml                     200
+/robots.txt                      /robots.txt                      200
+/llms.txt                        /llms.txt                        200
+/profile.json                    /profile.json                    200
+/resume.pdf                      /resume.pdf                      200
+/deepak_shah_portfolio_data.pdf  /deepak_shah_portfolio_data.pdf  200
+/favicon.svg                     /favicon.svg                     200
+/*                               /index.html                      200
