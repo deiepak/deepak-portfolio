@@ -16,6 +16,7 @@ function Skills() {
           <div className="skill-title">DevOps &amp; Infrastructure</div>
           <div className="skill-tags">
             <span className="skill-tag">Ubuntu Server 24</span>
+            <span className="skill-tag">Cloudflare DNS Management</span>
             <span className="skill-tag">VPS Creation &amp; Management</span>
             <span className="skill-tag">Linux / SSH Administration</span>
             <span className="skill-tag">Docker Containerization</span>

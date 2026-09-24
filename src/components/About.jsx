@@ -23,7 +23,7 @@ function About() {
             and adventure operations at <strong>Adventure Sewa</strong>.
           </p>
           <p>
-            Beyond internships, I manage cloud VPS environments (Ubuntu Server 24), have architected and deployed over 10+ commercial and
+            Beyond internships, I manage cloud VPS environments (Ubuntu Server 24), configure Cloudflare DNS &amp; SSL routing, have architected and deployed over 10+ commercial and
             freelance client websites, built a production-scaled event registration &amp;
             instant verification portal for our college department, and published 3 patents
             in automation and counter-UAV defense.

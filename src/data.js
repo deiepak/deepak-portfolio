@@ -61,7 +61,7 @@ export const experiences = [
       "Formulated comprehensive automated and manual test plans for rock-solid transaction reliability.",
       "Provisioned and hardened Ubuntu Server 24 VPS environments, automating server setups, Nginx reverse proxy routing, and release cycles.",
     ],
-    tech: ["Product Design", "Figma", "DevOps", "Ubuntu Server 24", "VPS Management", "QA & Automated Testing", "CI/CD", "REST APIs"],
+    tech: ["Product Design", "Figma", "DevOps", "Ubuntu Server 24", "VPS Management", "Cloudflare DNS", "QA & Automated Testing", "CI/CD"],
   },
 ];
 
@@ -83,9 +83,9 @@ export const projects = [
       "MongoDB",
       "Ubuntu Server 24",
       "VPS Hosting",
+      "Cloudflare DNS",
       "QR Verification",
       "Docker",
-      "Cloud Deployment",
     ],
   },
   {
@@ -97,13 +97,14 @@ export const projects = [
     category: "deployed",
     featured: true,
     description:
-      "Architected, built, and launched 10+ custom production websites for businesses and individual clients. Includes e-commerce platforms, corporate showcases, booking systems, and interactive RSVP sites with 95+ Google Lighthouse scores, mobile-first UX, and dynamic CMS capabilities.",
+      "Architected, built, and launched 10+ custom production websites for businesses and individual clients. Includes e-commerce platforms, corporate showcases, booking systems, and interactive RSVP sites with 95+ Google Lighthouse scores, mobile-first UX, Cloudflare DNS configuration, and dynamic CMS capabilities.",
     tech: [
       "React",
       "Next.js",
       "Tailwind CSS",
       "WordPress",
       "Node.js",
+      "Cloudflare DNS",
       "SEO Optimization",
       "Vercel / Netlify",
     ],

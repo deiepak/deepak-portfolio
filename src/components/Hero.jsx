@@ -51,7 +51,7 @@ function Hero() {
             <strong>3</strong> Published Patents
           </div>
           <div className="badge">
-            <strong>Ubuntu 24</strong> &amp; VPS
+            <strong>Cloudflare</strong> DNS &amp; VPS
           </div>
         </div>
         <div className="hero-cta-group">
@@ -186,6 +186,7 @@ function Hero() {
                 <span className="profile-tag">🏅 Hack n Win Top 6</span>
                 <span className="profile-tag">NIC Intern</span>
                 <span className="profile-tag">Adventure Sewa</span>
+                <span className="profile-tag">Cloudflare DNS</span>
                 <span className="profile-tag">Ubuntu 24 &amp; VPS</span>
                 <span className="profile-tag">3 Published Patents</span>
               </div>
