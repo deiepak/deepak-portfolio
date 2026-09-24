@@ -238,17 +238,6 @@ export const awards = [
     tags: ["Real-World Impact", "System Design", "Enterprise Tech", "SAP Hackfest"],
   },
   {
-    id: 2,
-    title: "Top 6 Finalist — Hack n Win 2026",
-    organization: "Hack n Win Hackathon",
-    date: "February 2026",
-    badge: "Top 6 / 250 Teams",
-    icon: "🏅",
-    description:
-      "Awarded among the top 6 teams out of 250 competing teams. Built a working prototype from scratch under rapid hackathon sprint conditions, excelling in technical execution and presentation.",
-    tags: ["Rapid Prototyping", "Full-Stack Development", "Top 6 of 250 Teams"],
-  },
-  {
     id: 3,
     title: "Ranked 3 / 300 Teams — AI Navigation Challenge",
     organization: "Offroad AI Hackathon",

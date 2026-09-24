@@ -1,6 +1,6 @@
 # Deepak Prasad Shah — Portfolio & Engineering Profile
 
-> BE Computer Science & Engineering student at Chandigarh University (Batch of 2028), Frontend & DevOps Engineer, Product Designer, and Hardware Patent Holder. Top 3 Winner at SAP Hackfest 2026 (1,300+ participants) & Top 6 Finalist at Hack n Win 2026 (250 teams).
+> BE Computer Science & Engineering student at Chandigarh University (Batch of 2028), Frontend & DevOps Engineer, Product Designer, and Hardware Patent Holder. Top 3 Winner at SAP Hackfest 2026 (1,300+ participants).
 
 ## Contact & Links
 - **Name**: Deepak Prasad Shah
@@ -40,10 +40,7 @@
 1. **Top 3 Team — SAP Hackfest 2026**
    - **Scale**: Top 3 finish out of 1,300+ participants nationwide.
    - **Achievement**: Identified a high-friction real-world problem and engineered a complete, production-ready technical solution evaluated by SAP industry judges.
-2. **Top 6 Finalist Team — Hack n Win Hackathon (February 2026)**
-   - **Scale**: Top 6 finish out of 250 competing engineering teams.
-   - **Achievement**: Conceptualized, built, and demonstrated a working full-stack prototype under intense hackathon sprint constraints.
-3. **Ranked 3 / 300 Teams — AI Offroad Navigation Challenge (2025)**
+2. **Ranked 3 / 300 Teams — AI Offroad Navigation Challenge (2025)**
    - **Scale**: 3rd Place out of 300 teams.
    - **Achievement**: Built Desert Offroad Navigator using real-time computer vision terrain segmentation and NLP voice guidance.
 

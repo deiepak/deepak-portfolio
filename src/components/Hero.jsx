@@ -30,16 +30,12 @@ function Hero() {
         </h1>
         <p className="hero-subtitle">
           BE Computer Science & Engineering student at Chandigarh University (2028).
-          <strong> Top 3 at SAP Hackfest 2026</strong> (1,300+ participants) and
-          <strong> Top 6 at Hack n Win 2026</strong> (250 teams). Interning at
+          <strong> Top 3 at SAP Hackfest 2026</strong> (1,300+ participants). Interning at
           <strong> National Innovation Center</strong> and <strong>Adventure Sewa</strong>.
         </p>
         <div className="hero-highlights">
           <div className="badge" onClick={scrollToAwards} style={{ cursor: "pointer" }}>
             <strong>🏆 Top 3</strong> SAP Hackfest &apos;26 (1300+)
-          </div>
-          <div className="badge" onClick={scrollToAwards} style={{ cursor: "pointer" }}>
-            <strong>🏅 Top 6</strong> Hack n Win &apos;26 (250 teams)
           </div>
           <div className="badge" onClick={scrollToExperience} style={{ cursor: "pointer" }}>
             <strong>2</strong> Active Internships
@@ -183,7 +179,6 @@ function Hero() {
               </div>
               <div className="profile-tags">
                 <span className="profile-tag">🏆 SAP Hackfest Top 3</span>
-                <span className="profile-tag">🏅 Hack n Win Top 6</span>
                 <span className="profile-tag">NIC Intern</span>
                 <span className="profile-tag">Adventure Sewa</span>
                 <span className="profile-tag">Cloudflare DNS</span>

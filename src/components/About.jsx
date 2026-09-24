@@ -44,10 +44,10 @@ function About() {
             </div>
           </div>
           <div className="about-chip">
-            <span className="chip-icon">🏅</span>
+            <span className="chip-icon">🥉</span>
             <div>
-              <strong>Top 6 • Hack n Win 2026</strong>
-              <div className="chip-sub">Out of 250 competing teams</div>
+              <strong>Ranked 3 / 300 Teams</strong>
+              <div className="chip-sub">Offroad AI Navigation Challenge</div>
             </div>
           </div>
           <div className="about-chip">
