@@ -21,15 +21,15 @@ class PortfolioPDF:
             self.current_stream = []
         self.page_num += 1
         self.y = self.height - self.margin_top
-        # Top gradient-like accent bar
+        # Top gradient accent bars
         self.rect(0, self.height - 4, self.width, 4, fill_color=(0.01, 0.55, 0.88))
         self.rect(0, self.height - 6, self.width, 2, fill_color=(0.58, 0.33, 0.95))
 
     def _draw_footer(self):
-        # Footer rule & page info
-        self.line(self.margin_x, 28, self.width - self.margin_x, 28, color=(0.85, 0.88, 0.92), width=0.8)
-        self.text(self.margin_x, 16, "Deepak Prasad Shah  |  Portfolio Data Export  |  deepakprasadshah.com.np", font="F1", size=8, color=(0.5, 0.55, 0.6))
-        self.text(self.width - self.margin_x - 45, 16, f"Page {self.page_num} of 2", font="F1", size=8, color=(0.5, 0.55, 0.6))
+        # Footer rule & clean page info
+        self.line(self.margin_x, 26, self.width - self.margin_x, 26, color=(0.85, 0.88, 0.92), width=0.8)
+        self.text(self.margin_x, 15, "Deepak Prasad Shah  |  Portfolio Data Export  |  deepakprasadshah.com.np", font="F1", size=8, color=(0.5, 0.55, 0.6))
+        self.text(self.width - self.margin_x - 50, 15, f"Page {self.page_num} of 2", font="F1", size=8, color=(0.5, 0.55, 0.6))
 
     def check_space(self, needed_pt):
         if self.y - needed_pt < self.margin_bottom:
@@ -69,7 +69,7 @@ class PortfolioPDF:
         self.check_space(34)
         self.y -= 10
         self.rect(self.margin_x, self.y - 2, 4, 13, fill_color=(0.01, 0.55, 0.88))
-        self.text(self.margin_x + 9, self.y, title.upper(), font="F2", size=10, color=(0.08, 0.12, 0.22))
+        self.text(self.margin_x + 9, self.y, title.upper(), font="F2", size=9.8, color=(0.08, 0.12, 0.22))
         self.y -= 4
         self.line(self.margin_x, self.y, self.width - self.margin_x, self.y, color=(0.88, 0.91, 0.94), width=0.8)
         self.y -= 9
@@ -77,7 +77,7 @@ class PortfolioPDF:
             self.text(self.margin_x, self.y, subtitle, font="F3", size=8, color=(0.4, 0.45, 0.5))
             self.y -= 8
 
-    def draw_wrapped_text(self, text, x, font="F1", size=8.5, color=(0.25, 0.28, 0.35), line_height=11.5, max_chars=96):
+    def draw_wrapped_text(self, text, x, font="F1", size=8.3, color=(0.25, 0.28, 0.35), line_height=11.2, max_chars=96):
         words = text.split(" ")
         current_line = []
         for word in words:
@@ -98,7 +98,7 @@ class PortfolioPDF:
         self.check_space(12)
         bullet_char = "-"
         self.text(self.margin_x + indent, self.y, bullet_char, font="F2", size=9, color=(0.01, 0.55, 0.88))
-        self.draw_wrapped_text(text, self.margin_x + indent + 8, font="F1", size=8.3, color=(0.25, 0.28, 0.35), line_height=11, max_chars=94)
+        self.draw_wrapped_text(text, self.margin_x + indent + 8, font="F1", size=8.2, color=(0.25, 0.28, 0.35), line_height=11, max_chars=94)
         self.y -= 1.5
 
     def save(self):
@@ -275,36 +275,51 @@ def build_pdf(output_path):
         pdf.text(pdf.margin_x, pdf.y, p_title, font="F2", size=9, color=(0.06, 0.1, 0.2))
         pdf.text(pdf.width - pdf.margin_x - 150, pdf.y, p_badge, font="F3", size=7.8, color=(0.01, 0.52, 0.85))
         pdf.y -= 9
-        pdf.draw_wrapped_text(p_desc, pdf.margin_x + 8, font="F1", size=8, color=(0.25, 0.28, 0.35), line_height=11, max_chars=96)
-        pdf.y -= 3.5
+        pdf.draw_wrapped_text(p_desc, pdf.margin_x + 8, font="F1", size=8, color=(0.25, 0.28, 0.35), line_height=10.8, max_chars=96)
+        pdf.y -= 3
 
     # TECHNICAL SKILLS
     pdf.section_header("Technical Skills & Competencies")
     skills = [
-        ("DevOps & Server Infrastructure", "Ubuntu Server 24 (LTS), VPS Creation & Management, Cloudflare DNS Management, Nginx Reverse Proxy, Docker Containerization, CI/CD Pipelines, Linux/SSH Administration, Server Hardening & Monitoring, Render, Vercel."),
-        ("Frontend & Full-Stack Engineering", "React, Next.js, JavaScript (ES6+), TypeScript, Node.js, Express.js, Python, Flask, FastAPI, Tailwind CSS, WordPress, MongoDB, MySQL, REST APIs, WebRTC, Socket.IO, D3.js."),
-        ("Product Design & Quality Assurance", "Product Design, UI/UX Wireframing, Figma Prototyping, User Journey Maps, Software QA Testing, Test Case Design, Automated Testing, Bug Tracking & System Reliability."),
-        ("Embedded Systems, IoT & Hardware", "ESP32, Arduino, C/C++, RF Jamming Concepts, Sensors & Actuators, Wireless Communication, IoT Protocols."),
-        ("Systems, Algorithms & Leadership", "Data Structures, Algorithms, System Architecture, GIS/Telemetry, Patent Drafting, Technical Writing, Nepalese Student Society Leadership."),
+        ("DevOps & Infrastructure", "Ubuntu Server 24 (LTS), VPS Creation & Management, Cloudflare DNS Management, Nginx Reverse Proxy, Docker Containerization, CI/CD Pipelines, Linux/SSH Administration, Server Hardening & Monitoring."),
+        ("Frontend & Full-Stack", "React, Next.js, JavaScript (ES6+), TypeScript, Node.js, Express.js, Python, Flask, FastAPI, Tailwind CSS, WordPress, MongoDB, MySQL, REST APIs, WebRTC, Socket.IO, D3.js."),
+        ("Product Design & QA", "Product Design, UI/UX Wireframing, Figma Prototyping, User Journey Maps, Software QA Testing, Automated & Manual Test Suites, Bug Tracking & System Reliability."),
+        ("Embedded & Hardware", "ESP32, Arduino, C/C++, RF Jamming Concepts, Sensors & Actuators, Wireless Communication, IoT Protocols."),
+        ("Systems & Algorithms", "Data Structures, Algorithms, System Architecture, GIS/Telemetry, Patent Drafting, Technical Writing, Nepalese Student Society Leadership."),
     ]
     for s_cat, s_items in skills:
         pdf.text(pdf.margin_x, pdf.y, s_cat + ":", font="F2", size=8.5, color=(0.06, 0.1, 0.2))
-        pdf.draw_wrapped_text(s_items, pdf.margin_x + 180, font="F1", size=8, color=(0.25, 0.28, 0.35), line_height=11, max_chars=66)
-        pdf.y -= 2.5
+        pdf.draw_wrapped_text(s_items, pdf.margin_x + 140, font="F1", size=8, color=(0.25, 0.28, 0.35), line_height=10.5, max_chars=72)
+        pdf.y -= 2
 
-    # EDUCATION & ACADEMIC BACKGROUND
+    # EDUCATION & ACADEMIC BACKGROUND (Clean, spacious, uncrowded layout)
     pdf.section_header("Education")
     edu_list = [
-        ("Bachelor of Engineering (BE) in Computer Science & Engineering", "Chandigarh University", "2024 - 2028 (Batch of 2028)"),
-        ("Senior Secondary School (Class 11 - 12)", "Kendriya Vidyalaya, Embassy of India, Kathmandu", "Completed  |  Science & Mathematics Stream"),
-        ("Secondary School (Up to Class 10)", "Modern Indian School, Kathmandu", "Completed"),
+        {
+            "degree": "Bachelor of Engineering (BE) in Computer Science & Engineering",
+            "institution": "Chandigarh University",
+            "meta": "2024 - 2028 (Batch of 2028)"
+        },
+        {
+            "degree": "Senior Secondary School (Class 11 - 12)",
+            "institution": "Kendriya Vidyalaya, Embassy of India, Kathmandu",
+            "meta": "Completed  |  Science & Mathematics Stream"
+        },
+        {
+            "degree": "Secondary School (Up to Class 10)",
+            "institution": "Modern Indian School, Kathmandu",
+            "meta": "Completed"
+        },
     ]
-    for deg, inst, yr in edu_list:
-        pdf.text(pdf.margin_x, pdf.y, deg, font="F2", size=8.5, color=(0.06, 0.1, 0.2))
-        pdf.text(pdf.width - pdf.margin_x - 140, pdf.y, yr, font="F3", size=7.8, color=(0.01, 0.52, 0.85))
-        pdf.y -= 9
-        pdf.text(pdf.margin_x + 10, pdf.y, inst, font="F1", size=8, color=(0.35, 0.4, 0.45))
-        pdf.y -= 9
+    for edu in edu_list:
+        pdf.check_space(24)
+        # Line 1: Degree on left (Bold), Status/Year on right (Accent)
+        pdf.text(pdf.margin_x, pdf.y, edu["degree"], font="F2", size=8.8, color=(0.06, 0.1, 0.2))
+        pdf.text(pdf.width - pdf.margin_x - 130, pdf.y, edu["meta"], font="F3", size=7.8, color=(0.01, 0.52, 0.85))
+        pdf.y -= 10
+        # Line 2: Institution name cleanly below (Indented)
+        pdf.text(pdf.margin_x + 8, pdf.y, edu["institution"], font="F1", size=8.2, color=(0.35, 0.4, 0.45))
+        pdf.y -= 8
 
     pdf.save()
     print(f"Successfully generated PDF: {output_path} ({pdf.page_num} pages)")
