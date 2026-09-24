@@ -21,11 +21,17 @@ function Navbar() {
           <button className="nav-link" onClick={() => scrollToId("about")}>
             About
           </button>
-          <button className="nav-link" onClick={() => scrollToId("patents")}>
-            Patents
+          <button className="nav-link" onClick={() => scrollToId("experience")}>
+            Experience
+          </button>
+          <button className="nav-link" onClick={() => scrollToId("awards")}>
+            Awards
           </button>
           <button className="nav-link" onClick={() => scrollToId("projects")}>
             Projects
+          </button>
+          <button className="nav-link" onClick={() => scrollToId("patents")}>
+            Patents
           </button>
           <button className="nav-link" onClick={() => scrollToId("skills")}>
             Skills

@@ -1,40 +1,84 @@
 import profilePic from "../assets/profile.jpg";
 
 function Hero() {
+  const scrollToProjects = () => {
+    const el = document.getElementById("projects");
+    if (el) el.scrollIntoView({ behavior: "smooth" });
+  };
+
+  const scrollToExperience = () => {
+    const el = document.getElementById("experience");
+    if (el) el.scrollIntoView({ behavior: "smooth" });
+  };
+
+  const scrollToAwards = () => {
+    const el = document.getElementById("awards");
+    if (el) el.scrollIntoView({ behavior: "smooth" });
+  };
+
   return (
     <section className="hero" id="hero">
       <div className="hero-left">
         <div className="hero-eyebrow">
           <span className="hero-eyebrow-dot" />
-          <span>Available for internships & remote projects</span>
+          <span>DevOps • Frontend Developer • Product Designer</span>
         </div>
         <h1 className="hero-title">
           Hi, I&apos;m <span>Deepak Prasad Shah</span>.
           <br />
-          I build systems that connect hardware, software & ideas.
+          Engineering real-world systems across hardware & software.
         </h1>
         <p className="hero-subtitle">
-          BE Computer Science & Engineering student at Chandigarh University
-          (2028). I enjoy turning research, embedded systems and software into
-          practical solutions — from IoT-based irrigation to drone
-          immobilization and solar automation.
+          BE Computer Science & Engineering student at Chandigarh University (2028).
+          <strong> Top 3 at SAP Hackfest 2026</strong> (1,300+ participants) and
+          <strong> Top 6 at Hack n Win 2026</strong> (250 teams). Interning at
+          <strong> National Innovation Center</strong> and <strong>Adventure Sewa</strong>.
         </p>
         <div className="hero-highlights">
-          <div className="badge">
-            <strong>3+</strong> published patents
+          <div className="badge" onClick={scrollToAwards} style={{ cursor: "pointer" }}>
+            <strong>🏆 Top 3</strong> SAP Hackfest &apos;26 (1300+)
+          </div>
+          <div className="badge" onClick={scrollToAwards} style={{ cursor: "pointer" }}>
+            <strong>🏅 Top 6</strong> Hack n Win &apos;26 (250 teams)
+          </div>
+          <div className="badge" onClick={scrollToExperience} style={{ cursor: "pointer" }}>
+            <strong>2</strong> Active Internships
+          </div>
+          <div className="badge" onClick={scrollToProjects} style={{ cursor: "pointer" }}>
+            <strong>10+</strong> Deployed Sites &amp; Portals
           </div>
           <div className="badge">
-            <strong>IoT</strong> &amp; embedded systems
+            <strong>3</strong> Published Patents
           </div>
           <div className="badge">
-            <strong>Full-stack</strong> development
+            <strong>Ubuntu 24</strong> &amp; VPS
           </div>
         </div>
+        <div className="hero-cta-group">
+          <button className="cta-primary-btn" onClick={scrollToProjects}>
+            View Deployed Projects
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <line x1="5" y1="12" x2="19" y2="12" />
+              <polyline points="12 5 19 12 12 19" />
+            </svg>
+          </button>
+          <button className="cta-secondary-btn" onClick={scrollToExperience}>
+            Experience & Internships
+          </button>
+        </div>
         <p className="hero-contact">
-          Contact via email:&nbsp;
-          <a href="mailto:deepakprdshah@yahoo.com">
-            deepakprdshah@yahoo.com
-          </a>
+          Email:&nbsp;
+          <a href="mailto:deepakprdshah@yahoo.com">deepakprdshah@yahoo.com</a>
         </p>
         <div className="hero-social">
           <a
@@ -46,8 +90,8 @@ function Hero() {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="22"
-              height="22"
+              width="20"
+              height="20"
               viewBox="0 0 24 24"
               fill="currentColor"
             >
@@ -138,13 +182,15 @@ function Hero() {
                 BE CSE @ Chandigarh University
               </div>
               <div className="profile-tags">
-                <span className="profile-tag">Patents & Innovation</span>
-                <span className="profile-tag">IoT & Automation</span>
-                <span className="profile-tag">Python / React</span>
+                <span className="profile-tag">🏆 SAP Hackfest Top 3</span>
+                <span className="profile-tag">🏅 Hack n Win Top 6</span>
+                <span className="profile-tag">NIC Intern</span>
+                <span className="profile-tag">Adventure Sewa</span>
+                <span className="profile-tag">Ubuntu 24 &amp; VPS</span>
+                <span className="profile-tag">3 Published Patents</span>
               </div>
               <div className="profile-stat">
-                3 patented inventions • Focusing on practical engineering
-                impact.
+                Focused on reliable software delivery, automated testing, and scalable architecture.
               </div>
             </div>
           </div>
