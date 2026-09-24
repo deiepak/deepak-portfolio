@@ -1,0 +1,115 @@
+# Deepak Prasad Shah — Portfolio & Engineering Profile
+
+> BE Computer Science & Engineering student at Chandigarh University (Batch of 2028), Frontend & DevOps Engineer, Product Designer, and Hardware Patent Holder. Top 3 Winner at SAP Hackfest 2026 (1,300+ participants) & Top 6 Finalist at Hack n Win 2026 (250 teams).
+
+## Contact & Links
+- **Name**: Deepak Prasad Shah
+- **Website**: https://deepakprasadshah.com.np/
+- **Email**: deepakprdshah@yahoo.com
+- **Phone**: +91-8288997559
+- **GitHub**: https://github.com/deiepak
+- **LinkedIn**: https://www.linkedin.com/in/deiepak/
+- **Resume (PDF)**: https://deepakprasadshah.com.np/resume.pdf
+- **Machine-Readable JSON Profile**: https://deepakprasadshah.com.np/profile.json
+- **Location**: India / Nepal (Available for remote & hybrid roles)
+
+## Professional Experience & Internships
+
+### 1. Frontend Developer & DevOps Engineer — National Innovation Center (NIC)
+- **Period**: July 2026 – Present (Active | Partially Remote)
+- **Focus**: Wildlife Conservation & Telemetry Monitoring Systems
+- **Summary**: Driving frontend engineering and DevOps infrastructure for mission-critical wildlife technology initiatives.
+- **Key Contributions**:
+  - Engineered high-performance React web dashboards for wildlife tracking and environmental sensor telemetry visualization.
+  - Configured automated CI/CD workflows, Docker containerization, and Ubuntu Server 24 cloud VPS deployments for 99.9% telemetry uptime.
+  - Collaborated with field researchers and hardware engineers to bridge real-time sensor data with web monitoring systems.
+- **Tech Stack**: React, JavaScript, DevOps, Ubuntu Server 24, VPS Management, Docker, CI/CD, GIS / Telemetry, Cloud Infrastructure.
+
+### 2. Solo Product Designer, QA Tester & DevOps Engineer — Adventure Sewa Pvt. Ltd.
+- **Period**: August 2025 – Present (Active | Partially Remote)
+- **Focus**: Enterprise Restaurant, Adventure Sports & Resort Operations ERP Software
+- **Summary**: Spearheading end-to-end product design, software quality assurance testing, and DevOps deployment pipelines.
+- **Key Contributions**:
+  - Designed end-to-end UX/UI user flows and interactive prototypes in Figma for resort booking, restaurant POS billing, and adventure scheduling.
+  - Formulated automated and manual QA test plans to guarantee zero-downtime operational reliability.
+  - Provisioned and hardened Ubuntu Server 24 VPS instances, configuring Nginx reverse proxy routing, Cloudflare DNS management, SSL security, and automated release cycles.
+- **Tech Stack**: Product Design, Figma, DevOps, Ubuntu Server 24, VPS Management, Cloudflare DNS, QA & Automated Testing, CI/CD, REST APIs.
+
+## Hackathon Wins & Honors
+
+1. **Top 3 Team — SAP Hackfest 2026**
+   - **Scale**: Top 3 finish out of 1,300+ participants nationwide.
+   - **Achievement**: Identified a high-friction real-world problem and engineered a complete, production-ready technical solution evaluated by SAP industry judges.
+2. **Top 6 Finalist Team — Hack n Win Hackathon (February 2026)**
+   - **Scale**: Top 6 finish out of 250 competing engineering teams.
+   - **Achievement**: Conceptualized, built, and demonstrated a working full-stack prototype under intense hackathon sprint constraints.
+3. **Ranked 3 / 300 Teams — AI Offroad Navigation Challenge (2025)**
+   - **Scale**: 3rd Place out of 300 teams.
+   - **Achievement**: Built Desert Offroad Navigator using real-time computer vision terrain segmentation and NLP voice guidance.
+
+## Featured Production Projects & Deployments
+
+1. **Department Event Registration & Instant Verification System** (`Production Deployed`)
+   - **Role**: Lead Full-Stack Developer & DevOps
+   - **Context**: College Department • Real-Life Deployed
+   - **Description**: Scaled competition and event registration portal handling high-concurrency student traffic, automated ticket generation with tamper-proof QR codes, coordinator scanner app for instant on-spot verification, and live admin analytics. Hosted on Ubuntu Server 24 VPS with Docker and Cloudflare DNS.
+   - **Tech**: React, Node.js, Express.js, MongoDB, Ubuntu Server 24, VPS Hosting, Cloudflare DNS, QR Verification, Docker.
+
+2. **Commercial & Freelance Business Websites (10+ Deployed)** (`10 Deployed`)
+   - **Role**: Full-Stack Web Developer & Designer
+   - **Context**: Client Solutions • 10+ Production Websites
+   - **Description**: Architected, designed, and deployed 10+ commercial websites for businesses and individual clients (e-commerce platforms, corporate portals, booking systems, portfolio & wedding RSVP sites) achieving 95+ Google Lighthouse scores, Cloudflare DNS & SSL setup, and SEO optimization.
+   - **Tech**: React, Next.js, Tailwind CSS, WordPress, Node.js, Cloudflare DNS, SEO Optimization, Vercel / Netlify.
+
+3. **CU Management System Staff Portal** (`Deployed: staff.cuchd.in`)
+   - **Role**: Product Designer
+   - **Description**: Designed user-centric features for the staff-facing CU Management System 2.0 portal at Chandigarh University, improving technical support workflows and ticket raising.
+
+4. **Real-Time Screen Sharing & Classroom Stream** (`Docker Deployed`)
+   - **Role**: Lead Developer
+   - **Description**: Low-latency browser-based classroom screen streaming built with WebRTC and Socket.IO, containerized with Docker on Render.
+
+5. **Agri_Doctor — 3-Tier AI Plant Disease Diagnosis**
+   - **Role**: AI Developer
+   - **Description**: 3-tier plant health diagnostic engine combining custom vision models, an Akinator-style interactive Q&A symptomnarrower, OpenAI fallback, and regional GIS disease mapping.
+
+6. **Desert Offroad Navigator** (`Ranked 3 / 300`)
+   - **Role**: AI/ML Developer
+   - **Description**: Real-time terrain segmentation and NLP voice guidance system fusing GPS telemetry and spatial mapping for desert off-road drivers.
+
+7. **CUNSS Secure Election Portal**
+   - **Role**: Lead Developer
+   - **Description**: Google OAuth-verified voting and live ballot tallying platform built for the Chandigarh University Nepalese Student Society.
+
+8. **Algolabs — Interactive Algorithm Visualizer**
+   - **Role**: Full-Stack Developer
+   - **Description**: EdTech platform with real-time D3.js and HTML5 Canvas animations for Data Structures and Algorithms.
+
+9. **IoT Smart Irrigation System**
+   - **Role**: Lead Hardware & Firmware Engineer
+   - **Description**: Automated irrigation controller using ESP32, soil moisture sensors, and weather forecast APIs.
+
+10. **Restaurant Management Portal**, **Scam-Guard Browser Extension**, **Examination Portal**
+
+## Published Hardware & Automation Patents
+
+1. **Drone Immobilization Over 2.4GHz** (`Flagship Published Patent`)
+   - **Focus**: Counter-UAV | Wireless Jamming | RF Security
+   - **Summary**: System to safely immobilize unauthorized drones operating on 2.4GHz bands with controlled disruption and minimal collateral interference.
+2. **Solar Panel Surface Cleaning System** (`Published Patent`)
+   - **Focus**: Renewable Energy | Mechatronics Automation
+   - **Summary**: Automated low-water dust cleaning mechanism for solar arrays to maximize photovoltaic efficiency.
+3. **Mechanized Lifting System** (`Published Patent`)
+   - **Focus**: Mechanical Design | Ergonomics & Safety
+   - **Summary**: Mechanized load-handling system engineered for constrained industrial spaces.
+
+## Core Technical Skills
+- **DevOps, Cloud & Server Administration**: Ubuntu Server 24 (LTS), VPS Creation & Management, Cloudflare DNS Management, SSL/TLS Routing, Nginx Reverse Proxy, Docker Containerization, CI/CD Pipelines, Linux/SSH Hardening, Render, Vercel, Netlify.
+- **Frontend & Full-Stack Development**: React, Next.js, JavaScript (ES6+), TypeScript, Node.js, Express.js, Python, Flask, FastAPI, HTML5, CSS3, Tailwind CSS, WordPress, MongoDB, MySQL, REST APIs, WebRTC, Socket.IO.
+- **Product Design & QA Testing**: Product Design, UI/UX Wireframing, Figma, Interactive Prototyping, Software QA Testing, Automated & Manual Test Suites, System Reliability.
+- **Embedded Systems, AI & Hardware**: ESP32, Arduino, C/C++, IoT Protocols, RF Engineering, Computer Vision, Machine Learning, GIS / Geospatial Telemetry.
+
+## Education
+- **Bachelor of Engineering (BE) in Computer Science & Engineering** — Chandigarh University (Batch of 2028)
+- **Class 11–12** — Kendriya Vidyalaya, Embassy of India, Kathmandu, Nepal
+- **Up to Class 10** — Modern Indian School, Kathmandu, Nepal

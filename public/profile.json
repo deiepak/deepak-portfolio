@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Deepak Prasad Shah",
+  "title": "BE CSE Student, Frontend & DevOps Engineer, Product Designer",
+  "url": "https://deepakprasadshah.com.np/",
+  "contact": {
+    "email": "deepakprdshah@yahoo.com",
+    "phone": "+91-8288997559",
+    "github": "https://github.com/deiepak",
+    "linkedin": "https://www.linkedin.com/in/deiepak/",
+    "resume": "https://deepakprasadshah.com.np/resume.pdf"
+  },
+  "education": {
+    "degree": "Bachelor of Engineering (BE) in Computer Science & Engineering",
+    "institution": "Chandigarh University",
+    "batch": 2028,
+    "schooling": [
+      {
+        "institution": "Kendriya Vidyalaya, Embassy of India, Kathmandu",
+        "level": "Class 11-12"
+      },
+      {
+        "institution": "Modern Indian School, Kathmandu",
+        "level": "Up to Class 10"
+      }
+    ]
+  },
+  "internships": [
+    {
+      "company": "National Innovation Center (NIC)",
+      "role": "Frontend Developer & DevOps Engineer",
+      "type": "Partially Remote",
+      "period": "July 2026 – Present",
+      "status": "Active",
+      "focus": "Wildlife Conservation & Telemetry Monitoring Systems",
+      "skills": ["React", "JavaScript", "DevOps", "Ubuntu Server 24", "VPS Management", "Docker", "CI/CD", "GIS / Telemetry", "Cloud Infrastructure"]
+    },
+    {
+      "company": "Adventure Sewa Pvt. Ltd.",
+      "role": "Solo Product Designer, QA Tester & DevOps Engineer",
+      "type": "Partially Remote",
+      "period": "August 2025 – Present",
+      "status": "Active",
+      "focus": "Restaurant POS, Adventure Booking, and Resort Operations Software",
+      "skills": ["Product Design", "Figma", "DevOps", "Ubuntu Server 24", "VPS Management", "Cloudflare DNS", "QA Testing", "CI/CD", "REST APIs"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top 3 Team — SAP Hackfest 2026",
+      "organization": "SAP",
+      "scale": "Top 3 out of 1,300+ participants nationwide",
+      "year": 2026
+    },
+    {
+      "title": "Top 6 Finalist — Hack n Win 2026",
+      "organization": "Hack n Win Hackathon",
+      "scale": "Top 6 out of 250 competing teams",
+      "date": "February 2026"
+    },
+    {
+      "title": "Ranked 3 / 300 Teams — AI Offroad Navigation Challenge",
+      "organization": "Autonomous & AI Hackathon",
+      "year": 2025
+    }
+  ],
+  "patents": [
+    {
+      "title": "Drone Immobilization Over 2.4GHz",
+      "focus": "Counter-UAV | Wireless Jamming | RF Security",
+      "status": "Official Published Patent"
+    },
+    {
+      "title": "Solar Panel Surface Cleaning System",
+      "focus": "Renewable Energy | Mechatronics Automation",
+      "status": "Official Published Patent"
+    },
+    {
+      "title": "Mechanized Lifting System",
+      "focus": "Mechanical Design | Ergonomics & Safety",
+      "status": "Official Published Patent"
+    }
+  ],
+  "keyDeployments": [
+    {
+      "name": "College Department Event Registration & Verification System",
+      "status": "Production Deployed",
+      "tech": ["React", "Node.js", "Express.js", "MongoDB", "Ubuntu Server 24", "VPS Hosting", "Cloudflare DNS", "QR Verification", "Docker"]
+    },
+    {
+      "name": "Commercial & Freelance Business Websites (10+ Deployed)",
+      "status": "10 Deployed Production Sites",
+      "tech": ["React", "Next.js", "Tailwind CSS", "WordPress", "Node.js", "Cloudflare DNS", "SEO Optimization"]
+    },
+    {
+      "name": "CU Management System Staff Portal",
+      "url": "https://staff.cuchd.in",
+      "role": "Product Designer"
+    }
+  ],
+  "skills": {
+    "devopsAndCloud": [
+      "Ubuntu Server 24 (LTS)",
+      "VPS Creation & Management",
+      "Cloudflare DNS Management",
+      "SSL / TLS Routing",
+      "Nginx Reverse Proxy",
+      "Docker Containerization",
+      "CI / CD Pipelines",
+      "Server Hardening & Security"
+    ],
+    "frontendAndFullstack": [
+      "React",
+      "Next.js",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Flask",
+      "Tailwind CSS",
+      "MongoDB",
+      "MySQL",
+      "REST APIs"
+    ],
+    "productDesignAndQA": [
+      "Product Design",
+      "Figma",
+      "Interactive Prototyping",
+      "Software QA Testing",
+      "Automated Test Suites",
+      "User Journey Flows"
+    ],
+    "embeddedAndHardware": [
+      "ESP32",
+      "Arduino",
+      "C / C++",
+      "Sensors & Actuators",
+      "RF & Wireless Communication",
+      "IoT Protocols"
+    ]
+  }
+}

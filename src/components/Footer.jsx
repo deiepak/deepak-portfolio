@@ -11,6 +11,16 @@ function Footer() {
             deepakprdshah@yahoo.com
           </a>
         </span>
+        <span>
+          AI / LLM Feeds:{" "}
+          <a href="/llms.txt" target="_blank" rel="noopener noreferrer">
+            llms.txt
+          </a>
+          {" • "}
+          <a href="/profile.json" target="_blank" rel="noopener noreferrer">
+            profile.json
+          </a>
+        </span>
         <a
           href="https://www.linkedin.com/in/deiepak/"
           target="_blank"
